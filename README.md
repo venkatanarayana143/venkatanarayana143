@@ -28,12 +28,10 @@ Data Science | Machine Learning | Open Source Contributor | Python | C++ | Compe
 B.E 4th year Computer Engineering student. Currently working as an Open-Source contributor at Omdena Community. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis.
 
 ## Communities :
-- Contributer at [DevScript Winter Of Code](http://devscript.tech/woc/) ( An Open Source organization.)
+- Contributer at [Omdena](https://omdena.com/projects/) ( An Open Source AI & Data Science organization.)
 - Member of [Computer Society of India](http://csi-india.org.in/)
 
 ## Technologies :fire:
-- Data Analysis with *Python*
-- Data Science
 - Machine Learning
 - Python
 - C++
