@@ -9,8 +9,8 @@
 <a href="https://github.com/venkatanarayana143">
   <img align="left" alt="Venkat's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/venkat_x20">
-  <img align="left" alt="Ashwani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://instagram.com/venkat_x24">
+  <img align="left" alt="Venkat's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100009436052703">
   <img align="left" alt="Venkat's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -25,7 +25,7 @@
 Data Science | Machine Learning | Open Source Contributor | Python | C++ | Competitive Programming
 
 ## About :sunglasses:
-B.E 4th year Computer Engineering student. Currently working as an Open-Source contributor at Omdena Community. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis.
+I am a Software Engineer having 1.5 years of experience at Cognizant Technology Solutions Pvt Ltd. I have completed my gradutaion with Computer Engineering specialization. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Full-stack Development and Data Analysis.
 
 ## Communities :
 - Contributer at [Omdena](https://omdena.com/projects/) ( An Open Source AI & Data Science organization.)
@@ -35,6 +35,9 @@ B.E 4th year Computer Engineering student. Currently working as an Open-Source c
 - Machine Learning
 - Python
 - C++
+- Java
+- JavaScript
+- SpringBoot
 - HTML & CSS
 - Flask
 - Scikit-Learn
