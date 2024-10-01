@@ -25,7 +25,7 @@
 Data Science | Machine Learning | Open Source Contributor | Python | C++ | Competitive Programming
 
 ## About :sunglasses:
-I am a Software Engineer having 1.5 years of experience at Cognizant Technology Solutions Pvt Ltd. I have completed my Bachelor's degree in Computer Engineering specialization. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Full-stack Development and Data Analysis.
+I am a Software Engineer having 2 years of experience at Cognizant Technology Solutions Pvt Ltd. I am currently persuing my Master's degree in Computer Science at University of Tartu, Estonia. I completed my Bachelor's degree in Computer Engineering specialization. Passionate about Data Science and Machine Learning. Also, have some experience in Full-stack Development and Data Analysis.
 
 ## Communities :
 - Contributer at [Omdena](https://omdena.com/projects/) ( An Open Source AI & Data Science organization.)
