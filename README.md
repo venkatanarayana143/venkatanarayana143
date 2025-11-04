@@ -9,7 +9,7 @@
 <a href="https://github.com/venkatanarayana143">
   <img align="left" alt="Venkat's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/venkat_x24">
+<a href="https://instagram.com/venkat_x25">
   <img align="left" alt="Venkat's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100009436052703">
