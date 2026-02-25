@@ -3,7 +3,7 @@
  <a href="https://twitter.com/Venkat515739">
   <img align="left" alt="Venkat's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/bvnarayana515739">
+<a href="https://www.linkedin.com/in/venkatanarayanab">
   <img align="left" alt="Venkat's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/venkatanarayana143">
@@ -22,10 +22,10 @@
 <br/>
 <br/>
 
-Data Science | Machine Learning | Open Source Contributor | Python | C++ | Competitive Programming
+Data Science | Machine Learning | Open Source Contributor | Python | Java | Competitive Programming
 
 ## About :sunglasses:
-I am currently persuing my Master's degree in Computer Science at University of Tartu, Estonia. I have 2 years of experience as Software Engineer at Cognizant Technology Solutions Pvt Ltd.  I completed my Bachelor's degree in Computer Engineering specialization. My interests are Data Science and Machine Learning. Also, have some experience in Full-stack Development and Data Analysis.
+I am currently pursuing a Master’s degree in Computer Science at the University of Tartu, Estonia. I previously worked for two years as a Software Engineer at Cognizant Technology Solutions, where I gained hands-on experience in developing and maintaining software applications. I hold a Bachelor’s degree in Computer Engineering, which gave me a strong foundation in programming and core computer science concepts. My main interests are Data Science and Machine Learning, and I also have experience in Full-Stack Development and Data Analysis. I am passionate about using data and intelligent systems to solve real-world problems.
 
 ## Communities :
 - Contributer at [Omdena](https://omdena.com/projects/) ( An Open Source AI & Data Science organization.)
