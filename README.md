@@ -71,7 +71,7 @@ I am currently pursuing a Master’s degree in Computer Science at the Universit
 [![Twitter Badge](https://img.shields.io/badge/-@Venkat515739-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Venkat515739)](https://twitter.com/Venkat515739) [![Linkedin Badge](https://img.shields.io/badge/-bvnarayana515739-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venkatanarayanab/)](https://www.linkedin.com/in/venkatanarayanab/) [![Gmail Badge](https://img.shields.io/badge/-bvnarayana515739@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bvnarayana515739@gmail.com)](mailto:bvnarayana515739@gmail.com) 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/venkatanarayana143/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge" />
 </p>
 
 
