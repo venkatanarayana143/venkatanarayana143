@@ -68,8 +68,7 @@ I am currently pursuing a Master’s degree in Computer Science at the Universit
 
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@Venkat515739-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Venkat515739)](https://twitter.com/Venkat515739) [![Linkedin Badge](https://img.shields.io/badge/-bvnarayana515739-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venkatanarayanab/)](https://www.linkedin.com/in/venkatanarayanab/) [![Gmail Badge](https://img.shields.io/badge/-bvnarayana515739@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bvnarayana515739@gmail.com)](mailto:bvnarayana515739@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@venkat_x25-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/venkat_x25/)](https://www.instagram.com/venkat_x25/)
-
+[![Twitter Badge](https://img.shields.io/badge/-@Venkat515739-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Venkat515739)](https://twitter.com/Venkat515739) [![Linkedin Badge](https://img.shields.io/badge/-bvnarayana515739-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venkatanarayanab/)](https://www.linkedin.com/in/venkatanarayanab/) [![Gmail Badge](https://img.shields.io/badge/-bvnarayana515739@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bvnarayana515739@gmail.com)](mailto:bvnarayana515739@gmail.com) 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/venkatanarayana143/count.svg" />
