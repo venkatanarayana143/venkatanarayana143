@@ -25,7 +25,7 @@
 Data Science | Machine Learning | Open Source Contributor | Python | Java | Competitive Programming
 
 ## About :sunglasses:
-I am currently pursuing a Master’s degree in Computer Science at the University of Tartu, Estonia. I previously worked for two years as a Software Engineer at Cognizant Technology Solutions, where I gained hands-on experience in developing and maintaining software applications. I hold a Bachelor’s degree in Computer Engineering, which gave me a strong foundation in programming and core computer science concepts. My main interests are Data Science and Machine Learning, and I also have experience in Full-Stack Development and Data Analysis. I am passionate about using data and intelligent systems to solve real-world problems.
+I am a MS in Computer Science graduate from the University of Tartu, Estonia. I previously worked for two years as a Software Engineer at Cognizant Technology Solutions, where I gained hands-on experience in developing and maintaining software applications. I hold a Bachelor’s degree in Computer Engineering, which gave me a strong foundation in programming and core computer science concepts. My main interests are Data Science and Machine Learning, and I also have experience in Full-Stack Development and Data Analysis. I am passionate about using data and intelligent systems to solve real-world problems.
 
 ## Communities :
 - Contributer at [Omdena](https://omdena.com/projects/) ( An Open Source AI & Data Science organization.)
@@ -33,6 +33,7 @@ I am currently pursuing a Master’s degree in Computer Science at the Universit
 
 ## Technologies :fire:
 - Machine Learning
+- Computer Vision
 - Python
 - C++
 - Java
